@@ -1,0 +1,5 @@
+Title: Return to Blockland
+Author: RTB Team
+Return to Blockland Add-On for Blockland
+
+This version of RTB has been modified by Greek2me to remove any internet-based RTB services.

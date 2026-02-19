@@ -1,0 +1,3 @@
+version	1.0.1
+channel	NO_INET
+repository	mods.greek2me.us/third-party
